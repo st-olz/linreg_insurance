@@ -11,4 +11,4 @@ This project uses an insurance cost data set from Kaggle (https://www.kaggle.com
 
 We are interested in how these different characteristics relate to the total medical cost. Since it is a continuous, positive number, a linear regression is promising to bring us some good results. 
 
-The procedure is described in the attached Jupyter Notebook.
+The procedure is described in the attached notebook [linear_regression_insurance_costs.ipynb](/linear_regression_insurance_costs.ipynb).
